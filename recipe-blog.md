@@ -2,6 +2,9 @@
 ### Lemon grass and ginnger quick pickling recipe:
 > *It's great!*
 
+Prep Time | 5 minutes
+----------|----------
+Cook Time | 20 minutes
 
 #### Ingredients
 * 1 stock lemon grass
